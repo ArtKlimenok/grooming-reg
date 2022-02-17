@@ -27,7 +27,7 @@ if(!$_SESSION['user']){
 </center>
 </div class="shapka1">
 <br><br><br>
-<center>
+<center><center>
     <table class="content1"><tr><td>
 
     <div class="inf" >  
@@ -37,6 +37,6 @@ if(!$_SESSION['user']){
     </div>
 
     </table>    
-</center>  
+</center> </center>  
 </body>
 </html>

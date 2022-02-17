@@ -1,4 +1,4 @@
 <?php
 
-$connect = mysqli_connect('localhost','root','', 'groom') or die ("error connect to database");
+$connect = mysqli_connect('localhost','root','', '') or die ("error connect to database");
 
